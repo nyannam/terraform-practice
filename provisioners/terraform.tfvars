@@ -1,0 +1,6 @@
+aws_access_key = ""
+aws_secret_key = ""
+region         = "us-west-2"
+ami            = ""
+instancetype   = "t2.micro"
+keyname        = "terraform-key"
